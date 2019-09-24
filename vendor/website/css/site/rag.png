@@ -10,19 +10,19 @@
 <meta name="Resource-type" content="Document">
 <script type="text/javascript">
    if(window.screen.width <=750){
-       window.location.href = "phoneindex.html"/*tpa=http://www.ayibang.com/phoneindex.html*/;
+       window.location.href = "phoneindex.html";
    }
 </script>
-<script src="vendor/website/js/jquery.min_78bc357.js" tppabs="http://www.ayibang.com/vendor/website/js/jquery.min_78bc357.js"></script>
-<script type="text/javascript" src="vendor/website/js/jquery.fullPage.min_688fc6d.js" tppabs="http://www.ayibang.com/vendor/website/js/jquery.fullPage.min_688fc6d.js"></script>
-<script type="text/javascript" src="vendor/website/js/jquery.easings.min_80a8980.js" tppabs="http://www.ayibang.com/vendor/website/js/jquery.easings.min_80a8980.js"></script>
-<script type="text/javascript" src="vendor/website/js/page_3b93263.js" tppabs="http://www.ayibang.com/vendor/website/js/page_3b93263.js"></script>
-<script type="text/javascript" src="vendor/website/js/script_f7b707d.js" tppabs="http://www.ayibang.com/vendor/website/js/script_f7b707d.js"></script>
-<script type="text/javascript" src="vendor/website/js/jquery.cookie_119dc0f.js" tppabs="http://www.ayibang.com/vendor/website/js/jquery.cookie_119dc0f.js"></script>
-<script type="text/javascript" src="vendor/website/js/login_ac5a6c8.js" tppabs="http://www.ayibang.com/vendor/website/js/login_ac5a6c8.js"></script>
-<script type="text/javascript" src="vendor/website/js/index_da6533b.js" tppabs="http://www.ayibang.com/vendor/website/js/index_da6533b.js"></script>
-<script src="../res.wx.qq.com/open/js/jweixin-1.0.0.js" tppabs="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
-<script type="text/javascript" src="vendor/website/js/ajax_f7aef18.js" tppabs="http://www.ayibang.com/vendor/website/js/ajax_f7aef18.js"></script>
+<script src="/vendor/website/js/jquery.min_78bc357.js"></script>
+<script type="text/javascript" src="/vendor/website/js/jquery.fullPage.min_688fc6d.js"></script>
+<script type="text/javascript" src="/vendor/website/js/jquery.easings.min_80a8980.js"></script>
+<script type="text/javascript" src="/vendor/website/js/page_3b93263.js"></script>
+<script type="text/javascript" src="/vendor/website/js/script_f7b707d.js"></script>
+<script type="text/javascript" src="/vendor/website/js/jquery.cookie_119dc0f.js"></script>
+<script type="text/javascript" src="/vendor/website/js/login_ac5a6c8.js"></script>
+<script type="text/javascript" src="/vendor/website/js/index_da6533b.js"></script>
+<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="/vendor/website/js/ajax_f7aef18.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
     $('#fullpage').fullpage({
@@ -48,9 +48,9 @@ $(document).ready(function() {
       $.fn.fullpage.moveTo(index);
     }
 </script>
-<link rel="stylesheet" type="text/css" href="vendor/website/css/jquery.fullPage_9525770.css" tppabs="http://www.ayibang.com/vendor/website/css/jquery.fullPage_9525770.css">
-<link rel="stylesheet" type="text/css" href="vendor/website/css/page-animation_a91922d.css" tppabs="http://www.ayibang.com/vendor/website/css/page-animation_a91922d.css">
-<link rel="stylesheet" type="text/css" href="vendor/website/css/index_98df790.css" tppabs="http://www.ayibang.com/vendor/website/css/index_98df790.css">
+<link rel="stylesheet" type="text/css" href="/vendor/website/css/jquery.fullPage_9525770.css">
+<link rel="stylesheet" type="text/css" href="/vendor/website/css/page-animation_a91922d.css">
+<link rel="stylesheet" type="text/css" href="/vendor/website/css/index_98df790.css">
 <body>
 <!--[if lte IE 8]>
 <style>
@@ -85,19 +85,19 @@ $(document).ready(function() {
 <div class="lowceng">
     <div class="white"></div>
     <div class="low" >
-       <a href="javascript:if(confirm('http://www.google.cn/intl/zh-CN/chrome/browser/  \n\n���ļ�δ�� Teleport Pro ���أ���Ϊ ��λ����ʼ��ַ�����õı߽���������·���С�  \n\n����Ҫ�ӷ�����������?'))window.location='http://www.google.cn/intl/zh-CN/chrome/browser/'" tppabs="http://www.google.cn/intl/zh-CN/chrome/browser/"></a>
+       <a href="http://www.google.cn/intl/zh-CN/chrome/browser/"></a>
     </div>
 </div>
 <div class="header">
     <div class="topcenter">
-        <a href="index.html" tppabs="http://www.ayibang.com/index.html" class="logo"></a>
+        <a href="index.html" class="logo"></a>
         <div class="phonenum"></div>
         <ul class="list">
             <li id="activityon" class="on"><a href="javascript:void(0)">首页</a></li>
-            <li><a href="familyservice.html" tppabs="http://www.ayibang.com/familyservice.html">家庭服务</a></li>
-            <li><a href="enterprisservice.html" tppabs="http://www.ayibang.com/enterprisservice.html">企业服务</a></li>
-            <li><a href="cityCooperation.html" tppabs="http://www.ayibang.com/cityCooperation.html">城市合伙</a></li>
-            <li><a href="aboutOur.html" tppabs="http://www.ayibang.com/aboutOur.html">关于我们</a></li>
+            <li><a href="familyservice.html">家庭服务</a></li>
+            <li><a href="enterprisservice.html">企业服务</a></li>
+            <li><a href="cityCooperation.html">城市合伙</a></li>
+            <li><a href="aboutOur.html">关于我们</a></li>
             <li class="hiring"><a href="javascript:void(0)">阿姨/技师报名</a></li>
         </ul>
     </div>
@@ -120,8 +120,8 @@ $(document).ready(function() {
                 <div class="toptit"></div>
                 <div class="callnum"></div>
                 <div class="wechatbox">
-                    <a href="javascript:if(confirm('http://s1.ayibang.com/ayibang.apk  \n\n���ļ�δ�� Teleport Pro ���أ���Ϊ ��λ����ʼ��ַ�����õı߽���������·���С�  \n\n����Ҫ�ӷ�����������?'))window.location='http://s1.ayibang.com/ayibang.apk'" tppabs="http://s1.ayibang.com/ayibang.apk" class="androBtn"></a>
-                    <a href="javascript:if(confirm('https://itunes.apple.com/cn/app/yi-bang-xiao-shi-gong-zhong/id683700520?mt=8  \n\n���ļ�δ�� Teleport Pro ���أ���Ϊ ��һ��ʹ��δ֧��Э��ĵ�ַ(����: gopher)��  \n\n����Ҫ�ӷ�����������?'))window.location='https://itunes.apple.com/cn/app/yi-bang-xiao-shi-gong-zhong/id683700520?mt=8'" tppabs="https://itunes.apple.com/cn/app/yi-bang-xiao-shi-gong-zhong/id683700520?mt=8" target="_blank" class="iosBtn"></a>
+                    <a href="http://s1.ayibang.com/ayibang.apk" class="androBtn"></a>
+                    <a href="https://itunes.apple.com/cn/app/yi-bang-xiao-shi-gong-zhong/id683700520?mt=8" target="_blank" class="iosBtn"></a>
                 </div>
             </div>
             <div class="girl"></div>
@@ -130,7 +130,7 @@ $(document).ready(function() {
     <div class="section fp-section" id="section1" data-anchor="secondPage">
         <div class="center">
             <div class="title">
-                <h1><img src="vendor/website/img/tit1_73b58f9.png" tppabs="http://www.ayibang.com/vendor/website/img/tit1_73b58f9.png" /></h1>
+                <h1><img src="/vendor/website/img/tit1_73b58f9.png" /></h1>
                 <p>全方位的家庭服务，一键下单，尽享清闲生活</p>
             </div>
             <div class="service">
@@ -221,7 +221,7 @@ $(document).ready(function() {
         <div class="showcase">
             <div class="showleft">
                 <div class="lefttop">
-                    <h1><img src="vendor/website/img/tit_a5594bf.png" tppabs="http://www.ayibang.com/vendor/website/img/tit_a5594bf.png" /></h1>
+                    <h1><img src="/vendor/website/img/tit_a5594bf.png" /></h1>
                     <p>阿姨帮APP是行业领先的互联网家庭服务平台</p>
                 </div>
                 <ul class="bannernav">
@@ -235,10 +235,10 @@ $(document).ready(function() {
             <div class="showright">
                 <div class="bannerbox">
                     <div class="imgbox">
-                        <div><img src="vendor/website/img/banner1_7013257.png" tppabs="http://www.ayibang.com/vendor/website/img/banner1_7013257.png" /></div>
-                        <div><img src="vendor/website/img/banner2_7f116c7.png" tppabs="http://www.ayibang.com/vendor/website/img/banner2_7f116c7.png" /></div>
-                        <div><img src="vendor/website/img/banner3_1d7b333.png" tppabs="http://www.ayibang.com/vendor/website/img/banner3_1d7b333.png" /></div>
-                        <div><img src="vendor/website/img/banner4_e3acdc7.png" tppabs="http://www.ayibang.com/vendor/website/img/banner4_e3acdc7.png" /></div>
+                        <div><img src="/vendor/website/img/banner1_7013257.png" /></div>
+                        <div><img src="/vendor/website/img/banner2_7f116c7.png" /></div>
+                        <div><img src="/vendor/website/img/banner3_1d7b333.png" /></div>
+                        <div><img src="/vendor/website/img/banner4_e3acdc7.png" /></div>
                     </div>
                 </div>
             </div>
@@ -247,7 +247,7 @@ $(document).ready(function() {
     <div class="section fp-section" id="section3" data-anchor="4thpage">
         <div class="center2">
             <div class="title2">
-                <h1><img src="vendor/website/img/tit2_d2fb9ae.png" tppabs="http://www.ayibang.com/vendor/website/img/tit2_d2fb9ae.png" /></h1>
+                <h1><img src="/vendor/website/img/tit2_d2fb9ae.png" /></h1>
                 <p>专业、便捷、安全并驾齐驱，口碑是阿姨帮的立身之本</p>
             </div>
             <ul class="feature">
@@ -275,7 +275,7 @@ $(document).ready(function() {
     <div class="section fp-section" id="section4" data-anchor="5fivpage">
         <div class="center3">
             <div class="title3">
-                <h1><img src="vendor/website/img/tit3_f7001ea.png" tppabs="http://www.ayibang.com/vendor/website/img/tit3_f7001ea.png" /></h1>
+                <h1><img src="/vendor/website/img/tit3_f7001ea.png" /></h1>
             </div>
             <div class="course">
                 <div class="centerline">
@@ -337,9 +337,9 @@ $(document).ready(function() {
                 <div class="infortop2"></div>
                 <p class="infortext">阿姨帮是一家移动互联网公司，初创团队来自各大互联网上市公司，梦想让我们聚集在一起，为了理想而奋斗。公司在成立之前就获得了雷军/顺为资本的天使投资，是一个提供优质家庭服务和企业后勤服务的平台，用户可以在线预约保洁服务、家电清洗、家居保养、保姆、月嫂、育儿嫂、空气治理、搬家、维修、居家换新等服务，并覆盖北京、上海、广州、深圳、杭州、成都、南京等40多个城市。</p>
                 <div class="mediatit">媒体报道</div>
-                <p class="mediainfor mediainfor3"><a href="javascript:if(confirm('http://mt.sohu.com/20160712/n458890458.shtml  \n\n���ļ�δ�� Teleport Pro ���أ���Ϊ ��λ����ʼ��ַ�����õı߽���������·���С�  \n\n����Ҫ�ӷ�����������?'))window.location='http://mt.sohu.com/20160712/n458890458.shtml'" tppabs="http://mt.sohu.com/20160712/n458890458.shtml" target="_blank">权威AppBase数据显示，阿姨帮app领军家政保姆行业第一名</a></p>
-                <p class="mediainfor mediainfor1"><a href="javascript:if(confirm('http://jingji.cyol.com/content/2016-12/08/content_14884278.htm  \n\n���ļ�δ�� Teleport Pro ���أ���Ϊ ��λ����ʼ��ַ�����õı߽���������·���С�  \n\n����Ҫ�ӷ�����������?'))window.location='http://jingji.cyol.com/content/2016-12/08/content_14884278.htm'" tppabs="http://jingji.cyol.com/content/2016-12/08/content_14884278.htm" target="_blank">阿姨帮入选2016年度中国互联网竞争力100强企业</a></p>
-                <p class="mediainfor mediainfor2"><a href="javascript:if(confirm('http://www.wtoutiao.com/p/4f1vOx0.html  \n\n���ļ�δ�� Teleport Pro ���أ���Ϊ ��λ����ʼ��ַ�����õı߽���������·���С�  \n\n����Ҫ�ӷ�����������?'))window.location='http://www.wtoutiao.com/p/4f1vOx0.html'" tppabs="http://www.wtoutiao.com/p/4f1vOx0.html" target="_blank">阿姨帮获弗若斯特沙利文GIL2016中国家庭服务市场唯一奖项</a></p>
+                <p class="mediainfor mediainfor3"><a href="http://mt.sohu.com/20160712/n458890458.shtml" target="_blank">权威AppBase数据显示，阿姨帮app领军家政保姆行业第一名</a></p>
+                <p class="mediainfor mediainfor1"><a href="http://jingji.cyol.com/content/2016-12/08/content_14884278.htm" target="_blank">阿姨帮入选2016年度中国互联网竞争力100强企业</a></p>
+                <p class="mediainfor mediainfor2"><a href="http://www.wtoutiao.com/p/4f1vOx0.html" target="_blank">阿姨帮获弗若斯特沙利文GIL2016中国家庭服务市场唯一奖项</a></p>
             </div>
         </div>
         <div class="footer">
@@ -347,15 +347,15 @@ $(document).ready(function() {
                 <p>©2016 阿姨帮 京ICP备13032113 京公网安备11010802013311</p>
                 <div class="footerList">
                     <a href="javascript:void(0)" class="say">意见反馈</a><span>|</span>
-                    <a href="aboutOur.html#history" tppabs="http://www.ayibang.com/aboutOur.html#history">发展历程</a><span>|</span>
-                    <a href="aboutOur.html#media" tppabs="http://www.ayibang.com/aboutOur.html#media">媒体报道</a><span>|</span>
-                    <a href="aboutOur.html#addour" tppabs="http://www.ayibang.com/aboutOur.html#addour">加入我们</a><span>|</span>
-                    <a href="userprotocol.html" tppabs="http://www.ayibang.com/userprotocol.html">用户协议</a>
+                    <a href="aboutOur.html#history">发展历程</a><span>|</span>
+                    <a href="aboutOur.html#media">媒体报道</a><span>|</span>
+                    <a href="aboutOur.html#addour">加入我们</a><span>|</span>
+                    <a href="userprotocol.html">用户协议</a>
                 </div>
             </div>
         </div>
     </div>
 </div>
 </body>
-<script type="text/javascript" src="vendor/website/js/comment_f5fe4ec.js" tppabs="http://www.ayibang.com/vendor/website/js/comment_f5fe4ec.js"></script>
+<script type="text/javascript" src="/vendor/website/js/comment_f5fe4ec.js"></script>
 </html>
